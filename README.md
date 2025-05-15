@@ -2,7 +2,7 @@
 
 **`Dev Front-End (+ Criador de vídeos tech/lifestyle)`**
 
-Sou um desenvolvedor full-stack independente e criador de conteúdo, construindo minha versão do mundo digital passo a passo. Todos os projetos são feitos do zero  desde o planejamento e design até a solução de problemas reais com código. Meus vídeos seguem o mesmo processo: da ideia ao roteiro, até o toque final com estilo e propósito. Compartilho tudo isso em vídeos com uma linguagem leve, reflexiva e inspiradora, pra quem quer aprender mais sobre desenvolvimento e o universo criativo por trás da tecnologia.
+Sou um Programador web independente e criador de conteúdo, construindo minha versão do mundo digital passo a passo. Todos os projetos são feitos do zero  desde o planejamento e design até a solução de problemas reais com código. Meus vídeos seguem o mesmo processo: da ideia ao roteiro, até o toque final com estilo e propósito. Compartilho tudo isso em vídeos com uma linguagem leve, reflexiva e inspiradora, pra quem quer aprender mais sobre desenvolvimento e o universo criativo por trás da tecnologia.
 
    <p align="left">
   <!-- Inscrição no YouTube -->
