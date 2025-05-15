@@ -73,7 +73,10 @@ Sou um desenvolvedor full-stack independente e criador de conteúdo, construindo
 #
 
 <picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" 
+          srcset="https://raw.githubusercontent.com/AnnaSBarros/AnnaSBarros/output/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=%23FFA500">
+  <source media="(prefers-color-scheme: light)" 
+          srcset="https://raw.githubusercontent.com/AnnaSBarros/AnnaSBarros/output/github-contribution-grid-snake.svg?color_snake=%23FFA500&color_dots=%23dcdcdc,%23ffffff,%23ffffff,%23ffffff">
+  <img align="center" alt="github contribution grid snake animation" 
+       src="https://raw.githubusercontent.com/AnnaSBarros/AnnaSBarros/output/github-contribution-grid-snake.svg?color_snake=%23FFA500&color_dots=%23dcdcdc,%23ffffff,%23ffffff,%23ffffff">
 </picture>
