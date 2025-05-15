@@ -69,3 +69,9 @@ Sou um desenvolvedor full-stack independente e criador de conteúdo, construindo
 <a href="https://github.com/AnnaSBarros">
   <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AnnaSBarros&layout=compact&langs_count=8&card_width=320" />
 </a>
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AnnaSBarros/AnnaSBarros/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AnnaSBarros/AnnaSBarros/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AnnaSBarros/AnnaSBarros/output/github-contribution-grid-snake.svg">
+</picture> 
